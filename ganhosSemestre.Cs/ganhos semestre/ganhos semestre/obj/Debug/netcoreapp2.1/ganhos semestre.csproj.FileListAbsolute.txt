@@ -1,0 +1,11 @@
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\bin\Debug\netcoreapp2.1\ganhos semestre.deps.json
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\bin\Debug\netcoreapp2.1\ganhos semestre.runtimeconfig.json
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\bin\Debug\netcoreapp2.1\ganhos semestre.runtimeconfig.dev.json
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\bin\Debug\netcoreapp2.1\ganhos semestre.dll
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\bin\Debug\netcoreapp2.1\ganhos semestre.pdb
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\obj\Debug\netcoreapp2.1\ganhos semestre.csprojAssemblyReference.cache
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\obj\Debug\netcoreapp2.1\ganhos semestre.csproj.CoreCompileInputs.cache
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\obj\Debug\netcoreapp2.1\ganhos semestre.AssemblyInfoInputs.cache
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\obj\Debug\netcoreapp2.1\ganhos semestre.AssemblyInfo.cs
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\obj\Debug\netcoreapp2.1\ganhos semestre.dll
+D:\enio c# exemplos em aula\EXEMPLO 10.07.19\Programa pra saber quanto ganhei no semestre\ganhos semestre\ganhos semestre\obj\Debug\netcoreapp2.1\ganhos semestre.pdb
